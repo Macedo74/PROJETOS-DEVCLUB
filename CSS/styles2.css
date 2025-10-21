@@ -1,0 +1,22 @@
+h1 {
+    color: red;
+    font-size: 64px;
+    font-weight: lighter;
+    font-family: 'Roboto', sans-serif;
+    font-style: italic;
+    text-shadow: 5px 5px 10px #ff2002;
+}
+
+p {
+    color: blue; /*Troca a cor do texto*/
+    font-size: 30px; /*Troca o tamanho do texto*/
+    font-weight: 100;
+    font-family: 'Roboto', sans-serif;
+    font-style: italic;
+    line-height: 50px;
+    letter-spacing: 10px;
+    word-spacing: 40px;
+    text-align: justify;
+    text-transform: capitalize;
+    text-decoration: underline;
+}   

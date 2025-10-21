@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;
+}
+
+.box{
+    width: 50px;
+    height: 50px;
+    background: #ff1493;
+    padding: 60px;
+    margin: 20px;
+}
+
+.box-2{
+    width: 50px;
+    height: 50px;
+    background: #9932cc;
+    padding: 60px;
+    margin: 50px;
+}
+
+.box-3{
+    width: 50px;
+    height: 50px;
+    background: #985552cc;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    padding-right: 10px;
+    padding-left: 5px;
+}
+
+/* Atalho do relógio
+margin: 10px 50px 30px 5px
+        12h  15h  18h  21h
+Quando temos apenas 3 valores, o primeiro se aplica em cima, o último se aplica embaixo, e o do meio nas laterais.        
+Quando temos apenas 2 valores, o primeiro se aplica em cime e embaixo e o segundo nas laterais.
+*/         
+
+.box-4{
+    width: 100px;
+    height: 100px;
+    background: #ff1493;
+    padding: 20px;
+    margin: 50px;
+    border: 10px solid #0000FF;
+    
+}
